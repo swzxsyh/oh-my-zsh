@@ -1,5 +1,5 @@
 #Add Some Plugins auto-suggestions,git-autocomplete  
-#Mody the Agnoster theme  
+#Modify the Agnoster theme  
 ##Dleete context,git,hg,bzr,status  
 ##Modify prompt_dir() Fork https://zhuanlan.zhihu.com/p/51008087  
 ###or you can use perl https://gist.github.com/IsmailM/3ae853bfc5a21adf21bb  
