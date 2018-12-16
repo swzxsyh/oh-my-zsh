@@ -1,0 +1,4 @@
+result=( ${(Q)"${(z)$(<<\EO:result
+'microsoft/dotnet' 'microsoft/mssql-server-linux' 'microsoft/aspnetcore' 'mono' 'microsoft/azure-cli' 'microsoft/dotnet-framework' 'microsoft/dotnet-samples' 'microsoft/dynamics-nav' 'microsoft/oms' 'microsoft/cntk' 'microsoft/dotnet-framework-samples' 'microsoft/dotnet-nightly' 'microsoft/dotnet-framework-build' 'microsoft/dotnet-buildtools-prereqs' 'appsvc/dotnetcore' 'wlniao/dotnet' 'jkleczkowski/teamcity-agent-dotnet-core' 'cl0sey/dotnet-mono-docker' '2020ip/dotnet-mono' 'appsvctest/dotnetcore' 'afshinmo/dotnetcoreweb' 'travix/gocd-agent-gcloud-dotnet' 'cl0sey/dotnet-node' 'slacksec/dotnet' 'admiringworm/dotnet-mono'
+EO:result
+)}"} )

@@ -1,0 +1,4 @@
+result=( ${(Q)"${(z)$(<<\EO:result
+'alpine' 'microsoft/dotnet' 'microsoft/aspnet' 'drupal' 'hello-world' 'itzg/minecraft-server' 'microsoft/aspnetcore' 'mono' 'kong' 'microsoft/aspnetcore-build' 'minio/minio' 'microsoft/azure-cli' 'microsoft/dynamics-nav' 'microsoft/oms' 'ubuntu-debootstrap' 'mitmproxy/mitmproxy' 'microsoft/cntk' 'minecoins/minergate-cli' 'mist/mistio' 'microsoft/dotnet-nightly' 'kannix/monero-miner' 'rlenferink/minecraft' 'microhq/micro' 'benbrown/git-mirror' 'midonet/agent'
+EO:result
+)}"} )

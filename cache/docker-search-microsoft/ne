@@ -1,0 +1,4 @@
+result=( ${(Q)"${(z)$(<<\EO:result
+'node' 'microsoft/dotnet' 'microsoft/aspnet' 'microsoft/mssql-server-linux' 'neo4j' 'sonatype/nexus' 'microsoft/aspnetcore' 'microsoft/windowsservercore' 'nextcloud' 'mono' 'microsoft/aspnetcore-build' 'microsoft/mssql-server-windows-express' 'titpetric/netdata' 'microsoft/azure-cli' 'microsoft/dotnet-framework' 'lowid/ss-with-net-speeder' 'microsoft/dotnet-samples' 'neurodebian' 'microsoft/dynamics-nav' 'microsoft/oms' 'microsoft/cntk' 'microsoft/dotnet-framework-samples' 'microsoft/dotnet-nightly' 'microsoft/dotnet-framework-build' 'microsoft/mmlspark'
+EO:result
+)}"} )
